@@ -1,2 +1,2 @@
 # Inside postBuild
-jupyter nbconvert yourNotebook.ipynb --no-input --to html
+jupyter nbconvert provinceszipped.ipynb --no-input --to html
