@@ -1,0 +1,2 @@
+# Inside postBuild
+jupyter nbconvert yourNotebook.ipynb --no-input --to html
